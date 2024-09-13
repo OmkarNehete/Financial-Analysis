@@ -1,5 +1,5 @@
-
 **#Financial Instruments Risk, Trading Indicator, and Sharpe Ratio Analysis**
+
 This project analyzes financial instruments to assess risk and identify investment opportunities using Python libraries such as Matplotlib, Seaborn, Numpy, and Pandas. It includes regression analysis, the creation of trading indicators like Exponential Moving Averages (EMA), buy/sell signals, and Sharpe ratio calculation to evaluate the risk-adjusted return of assets.
 
 Features
